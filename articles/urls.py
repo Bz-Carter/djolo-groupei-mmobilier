@@ -1,10 +1,8 @@
 from django.conf.urls.static import static
 from django.conf import settings
-from django.urls import path, include
 from rest_framework.routers import DefaultRouter
-
 router = DefaultRouter()
-
+from django.urls import path, include
 from .views import (FileUploadView, CategoryGenericAPIView, TypeGenericAPIView,
                     PhotoGenericAPIView, VideoGenericAPIView, PropertyGenericAPIView, SpaceGenericAPIView,
                     PartnerGenericAPIView,
@@ -17,6 +15,7 @@ from .views import (FileUploadView, CategoryGenericAPIView, TypeGenericAPIView,
                     )
 
 urlpatterns = [
+                  path('', include(router.urls)),
                   path('properties', PropertyGenericAPIView.as_view()),
                   path('property', PublicPropertyGenericAPIView.as_view()),
                   path('properties/<str:pk>', PropertyGenericAPIView.as_view()),
@@ -58,5 +57,4 @@ urlpatterns = [
                   path('photo', PublicPhotoGenericAPIView.as_view()),
                   path('photos/<str:pk>', PhotoGenericAPIView.as_view()),
                   path('photo/<str:pk>', PublicPhotoGenericAPIView.as_view()),
-                  path('', include(router.urls)),
               ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
