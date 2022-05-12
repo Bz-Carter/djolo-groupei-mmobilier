@@ -1,0 +1,16 @@
+[
+  {
+    "model": "articles.type",
+    "pk": 1,
+    "fields": {
+      "name": "Bail"
+    }
+  },
+  {
+    "model": "articles.type",
+    "pk": 2,
+    "fields": {
+      "name": "Vente"
+    }
+  }
+]

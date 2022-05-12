@@ -1,0 +1,52 @@
+[
+  {
+    "model": "articles.partner",
+    "pk": 1,
+    "fields": {
+      "name": "goden grid",
+      "image": "http://localhost:8000/api/media/logo-1.png",
+      "alt": "",
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 2,
+    "fields": {
+      "name": "fastlane",
+      "image": "http://localhost:8000/api/media/logo-2.png",
+      "alt": "",
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 3,
+    "fields": {
+      "name": "sweety",
+      "image": "http://localhost:8000/api/media/logo-3.png",
+      "alt": "",
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 4,
+    "fields": {
+      "name": "clim the mountain",
+      "image": "http://localhost:8000/api/media/logo-4.png",
+      "alt": "",
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.partner",
+    "pk": 5,
+    "fields": {
+      "name": "ron jones",
+      "image": "http://localhost:8000/api/media/logo-5.png",
+      "alt": "",
+      "created": "2022-02-13 20:28:00"
+    }
+  }
+]

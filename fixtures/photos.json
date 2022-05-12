@@ -1,0 +1,266 @@
+[
+  {
+    "model": "articles.photo",
+    "pk": 1,
+    "fields": {
+      "name": "img-item-thumb-01",
+      "image": "http://localhost:8000/api/media/img-item-thumb-01.jpg",
+      "alt": "img-item-thumb-01",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 2,
+    "fields": {
+      "name": "img-item-thumb-02",
+      "image": "http://localhost:8000/api/media/img-item-thumb-02.jpg",
+      "alt": "img-item-thumb-02",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 3,
+    "fields": {
+      "name": "img-item-thumb-03",
+      "image": "http://localhost:8000/api/media/img-item-thumb-03.jpg",
+      "alt": "img-item-thumb-01",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 4,
+    "fields": {
+      "name": "img-item-thumb-04",
+      "image": "http://localhost:8000/api/media/img-item-thumb-04.jpg",
+      "alt": "img-item-thumb-04",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 5,
+    "fields": {
+      "name": "img-item-thumb-05",
+      "image": "http://localhost:8000/api/media/img-item-thumb-05.jpg",
+      "alt": "img-item-thumb-01",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 6,
+    "fields": {
+      "name": "img-item-thumb-06",
+      "image": "http://localhost:8000/api/media/img-item-thumb-06.jpg",
+      "alt": "img-item-thumb-06",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 7,
+    "fields": {
+      "name": "img-item-thumb-07",
+      "image": "http://localhost:8000/api/media/img-item-thumb-07.jpg",
+      "alt": "img-item-thumb-07",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 8,
+    "fields": {
+      "name": "img-item-thumb-08",
+      "image": "http://localhost:8000/api/media/img-item-thumb-08.jpg",
+      "alt": "img-item-thumb-08",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 9,
+    "fields": {
+      "name": "img-item-thumb-09",
+      "image": "http://localhost:8000/api/media/img-item-thumb-09.jpg",
+      "alt": "img-item-thumb-09",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 10,
+    "fields": {
+      "name": "img-item-thumb-10",
+      "image": "http://localhost:8000/api/media/img-item-thumb-10.jpg",
+      "alt": "img-item-thumb-10",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 11,
+    "fields": {
+      "name": "img-item-thumb-11",
+      "image": "http://localhost:8000/api/media/img-item-thumb-11.jpg",
+      "alt": "img-item-thumb-11",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 12,
+    "fields": {
+      "name": "img-item-thumb-12",
+      "image": "http://localhost:8000/api/media/img-item-thumb-12.jpg",
+      "alt": "img-item-thumb-12",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 13,
+    "fields": {
+      "name": "img-item-thumb-13",
+      "image": "http://localhost:8000/api/media/img-item-thumb-13.jpg",
+      "alt": "img-item-thumb-13",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 14,
+    "fields": {
+      "name": "img-item-thumb-14",
+      "image": "http://localhost:8000/api/media/img-item-thumb-14.jpg",
+      "alt": "img-item-thumb-14",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 15,
+    "fields": {
+      "name": "img-item-thumb-15",
+      "image": "http://localhost:8000/api/media/img-item-thumb-15.jpg",
+      "alt": "img-item-thumb-15",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 16,
+    "fields": {
+      "name": "img-item-thumb-16",
+      "image": "http://localhost:8000/api/media/img-item-thumb-16.jpg",
+      "alt": "img-item-thumb-16",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 17,
+    "fields": {
+      "name": "img-item-thumb-17",
+      "image": "http://localhost:8000/api/media/img-item-thumb-7.jpg",
+      "alt": "img-item-thumb-17",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 18,
+    "fields": {
+      "name": "img-item-thumb-18",
+      "image": "http://localhost:8000/api/media/img-item-thumb-18.jpg",
+      "alt": "img-item-thumb-18",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 19,
+    "fields": {
+      "name": "img-item-thumb-19",
+      "image": "http://localhost:8000/api/media/img-item-thumb-19.jpg",
+      "alt": "img-item-thumb-19",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 20,
+    "fields": {
+      "name": "img-item-thumb-20",
+      "image": "http://localhost:8000/api/media/img-item-thumb-20.jpg",
+      "alt": "img-item-thumb-20",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 21,
+    "fields": {
+      "name": "img-item-thumb-21",
+      "image": "http://localhost:8000/api/media/img-item-thumb-21.jpg",
+      "alt": "img-item-thumb-21",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 22,
+    "fields": {
+      "name": "img-item-thumb-22",
+      "image": "http://localhost:8000/api/media/img-item-thumb-22.jpg",
+      "alt": "img-item-thumb-22",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 23,
+    "fields": {
+      "name": "img-item-thumb-23",
+      "image": "http://localhost:8000/api/media/img-item-thumb-23.jpg",
+      "alt": "img-item-thumb-23",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.photo",
+    "pk": 24,
+    "fields": {
+      "name": "img-item-thumb-24",
+      "image": "http://localhost:8000/api/media/img-item-thumb-24.jpg",
+      "alt": "img-item-thumb-24",
+      "owner_id": 1,
+      "created": "2022-02-13 20:28:00"
+    }
+  }
+]

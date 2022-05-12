@@ -1,0 +1,242 @@
+[
+  {
+    "model": "articles.space",
+    "pk": 1,
+    "fields": {
+      "title": "Terrain 800 Mètre Carré",
+      "price": 860000,
+      "image": "http://localhost:8000/api/media/img-item-thumb-04.jpg",
+      "address": "635 Green Street, Somerset",
+      "city": "Abidjan",
+      "latitude": "40.66112613393322",
+      "longitude": "-73.54010501574709",
+      "area": 800,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 2,
+    "fields": {
+      "title": "Bristol Tower Complex",
+      "price": 85900,
+      "image": "http://localhost:8000/api/media/img-item-thumb-06.jpg",
+      "address": "180 Grant Avenue, Onton",
+      "city": "Abidjan",
+      "latitude": "40.735049117519694",
+      "longitude": "-73.5298053331299",
+      "area": 1850,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 3,
+    "fields": {
+      "title": "River Apartments",
+      "price": 127000,
+      "image": "http://localhost:8000/api/media/img-item-thumb-07.jpg",
+      "address": "228 Hinckley Place",
+      "city": "Abidjan",
+      "latitude": "40.72217055684573",
+      "longitude": "-73.44139972399904",
+      "area": 580,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 4,
+    "fields": {
+      "title": "White Scapes Complex",
+      "price": 168500,
+      "image": "http://localhost:8000/api/media/img-item-thumb-09.jpg",
+      "address": "326 Mill Lane, Montura",
+      "city": "Abidjan",
+      "latitude": "40.72217055684573",
+      "longitude": "-73.44139972399904",
+      "area": 310,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 5,
+    "fields": {
+      "title": "New Studio for Rent",
+      "price": 240,
+      "image": "http://localhost:8000/api/media/img-item-thumb-10.jpg",
+      "address": "230 High Street, Cumminsville",
+      "city": "Abidjan",
+      "latitude": "40.70148159217449",
+      "longitude": "-73.448654666613771",
+      "area": 190,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 1,
+      "photos": [3, 4, 5, 6, 7, 8],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 6,
+    "fields": {
+      "title": "High Side Resort",
+      "price": 250200,
+      "image": "http://localhost:8000/api/media/img-item-thumb-11.jpg",
+      "address": "558 Ellery Street, Bellamy",
+      "city": "Abidjan",
+      "latitude": "40.666595078439435",
+      "longitude": "-73.69442859362795",
+      "area": 500,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 1,
+      "photos": [3, 4, 5, 6, 7, 8],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 7,
+    "fields": {
+      "title": "Coworking Offices",
+      "price": 30,
+      "image": "http://localhost:8000/api/media/img-item-thumb-12.jpg",
+      "address": "373 Erskine Loop, Soham, Montana",
+      "city": "Abidjan",
+      "latitude": "40.65096833301533",
+      "longitude": "-73.61100116442873",
+      "area": 980,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [1, 2, 3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 8,
+    "fields": {
+      "title": "Apartments Center Complex",
+      "price": 89000,
+      "image": "http://localhost:8000/api/media/img-item-thumb-13.jpg",
+      "address": "674 Wyona Street, Otranto",
+      "city": "Abidjan",
+      "latitude": "40.65241954519077",
+      "longitude": "-73.27795745324536",
+      "area": 301,
+      "owner_id": 1,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 1,
+      "photos": [3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 9,
+    "fields": {
+      "title": "Shared Office",
+      "price": 180,
+      "image": "http://localhost:8000/api/media/img-item-thumb-14.jpg",
+      "address": "827 Jodie Court, Osmond",
+      "city": "Abidjan",
+      "latitude": "40.67818255029871",
+      "longitude": "-73.44946780871584",
+      "area": 870,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [1, 2, 3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 10,
+    "fields": {
+      "title": "Newly Redesigned Studio",
+      "price": 45900,
+      "image": "http://localhost:8000/api/media/img-item-thumb-15.jpg",
+      "address": "398 McKibbin Street, Oneida",
+      "city": "Abidjan",
+      "latitude": "40.68104655877173",
+      "longitude": "-73.45513263415529",
+      "area": 310,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [1, 2, 3, 4, 5],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 11,
+    "fields": {
+      "title": "Residental House on Quite Place",
+      "price": 405,
+      "image": "http://localhost:8000/api/media/img-item-thumb-16.jpg",
+      "address": "605 Dennett Place, Tooleville",
+      "city": "Abidjan",
+      "latitude": "40.70739786733858",
+      "longitude": "-73.53767378821803",
+      "area": 408,
+      "owner_id": 1,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 2,
+      "photos": [3, 4, 5, 6, 7, 8],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  },
+  {
+    "model": "articles.space",
+    "pk": 12,
+    "fields": {
+      "title": "Spacey Apartment In Town Center",
+      "price": 153000,
+      "image": "http://localhost:8000/api/media/img-item-thumb-17.jpg",
+      "address": "569 Harrison Place, Lafferty",
+      "city": "Abidjan",
+      "latitude": "40.70707735514919",
+      "longitude": "-73.54302325915529",
+      "area": 210,
+      "owner_id": 2,
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "type_id": 1,
+      "photos": [3, 4, 5, 6, 7, 8],
+      "videos": [],
+      "created": "2022-02-13 20:28:00"
+    }
+  }
+]

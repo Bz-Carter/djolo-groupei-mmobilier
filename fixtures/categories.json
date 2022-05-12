@@ -1,0 +1,30 @@
+[
+  {
+    "model": "articles.category",
+    "pk": 1,
+    "fields": {
+      "name": "Appartements"
+    }
+  },
+  {
+    "model": "articles.category",
+    "pk": 2,
+    "fields": {
+      "name": "Bureaux"
+    }
+  },
+  {
+    "model": "articles.category",
+    "pk": 3,
+    "fields": {
+      "name": "Cabins"
+    }
+  },
+  {
+    "model": "articles.category",
+    "pk": 4,
+    "fields": {
+      "name": "Villas"
+    }
+  }
+]
